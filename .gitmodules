@@ -1,0 +1,3 @@
+[submodule "portfo"]
+	path = portfo
+	url = https://github.com/username/portfo-submodule.git
